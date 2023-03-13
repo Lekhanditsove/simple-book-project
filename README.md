@@ -1,3 +1,3 @@
-# book-project-test
+# book-project-repository
 
-A simple Book Project secured by Token Authentication and Digital Signature
+A simple Book Repository secured by Token Authentication and Digital Signature
